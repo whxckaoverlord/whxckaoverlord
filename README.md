@@ -49,3 +49,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=whxckaoverlord&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>

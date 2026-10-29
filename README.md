@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=whxckaoverlord&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS" alt="Visitor Count" />
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Whxcka+%3C3+Overlord;Architect+of+the+Digital+World;Code.%2C+Design.%2C+Conquer.!" alt="Typing SVG" />
 </div>

@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-%2300FF66?style=for-the-badge&logo=reactivex&logoColor=%2300FF66" />
   <img src="https://img.shields.io/badge/Core-Developer-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vibe-Overlord-FF0055?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-WhxckaXOverlord-FF0055?style=for-the-badge&logo=fire&logoColor=white" />
 </p>
 
 ---

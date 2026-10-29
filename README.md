@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Whxcka+%3C3+Overlord;Dijital+Dünyanın+Mimarındayım;Kodla%2C+Tasarla%2C+Hükmet!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Whxcka+%3C3+Overlord;Architect+of+the+Digital+World;Code.%2C+Design.%2C+Conquer.!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,17 +12,17 @@
 
 ---
 
-### ⚡ Hakkımda / About Me
+### ⚡ About Me
 
-> *"Sınırlar sadece onları aşmaya cesareti olmayanlar içindir."*
+> *"Limits only exist in the minds of those who refuse to break them."*
 
-* 🔭 Şu sıralar **Discord botları** ve modern yazılım projeleri geliştiriyorum.
-* 💻 Python ve Node.js ekosisteminde kod yazmayı seviyorum.
-* ⚡ Teknolojiyi, otomasyonu ve estetik kod mimarisini harmanlıyorum.
+* 🔭 Currently building **Discord bots** and modern software projects.
+* 💻 Passionate about writing code in the Python and Node.js ecosystem.
+* ⚡ Blending technology, automation, and aesthetic code architecture.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar / Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,nodejs,git,github,windows,vscode,discord" />
@@ -30,15 +30,15 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim / Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Whxcka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whxcka&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=whxckaoverlord&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whxckaoverlord&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whxcka&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whxckaoverlord&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
